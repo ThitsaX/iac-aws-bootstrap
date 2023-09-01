@@ -13,6 +13,7 @@ variable "gitlab_ami_list" {
     eu-west-2      = "ami-09cb5d36edfe093d3"
     ap-south-1     = "ami-0885d40ec66abfb42"
     ap-southeast-1 = "ami-0f7719e8b7ba25c61"
+    af-south-1     = "ami-042995beac9ec5140"
   }
 }
 
