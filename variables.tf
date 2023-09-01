@@ -50,7 +50,7 @@ variable "vpn_ami_list" {
 variable "vpn_instance_type" {
   description = "ec2 instance type to install openvpn"
   type        = string
-  default     = "t2.small"
+  default     = "t3.small"
 }
 
 variable "use_latest_ami" {
